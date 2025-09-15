@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - I’m currently studying Computer Science at the Federal University of Sergipe
-- I'm currently working on `SofTeam-org`
+- I'm currently working on `XTI solutions`
 
 <div align="center">
   <a href="https://github.com/Jorgeloch">
